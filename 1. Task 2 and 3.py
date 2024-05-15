@@ -15,5 +15,5 @@ else:
             print("You will be able to see better!")
         elif action == "proceed in the dark":
             print("You will not see your path")
-        else:
+    else:
             pass
